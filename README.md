@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://res.cloudinary.com/dshviljjs/image/upload/v1720490468/121568_qoaxrq.gif" alt="Banner">
+    <img src="https://res.cloudinary.com/dshviljjs/image/upload/v1720491062/3qVd_x75m3e.gif" alt="Banner">
   </picture>
 
   <hr style="height: 1px; border: none; background-color: #000;">
