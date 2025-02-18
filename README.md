@@ -11,6 +11,6 @@
    </h3>
    <hr style="height: 1px; border: none; background-color: #000;">
    <picture>
-      <img src="./profile-3d-contrib/profile-night-green.svg" alt="Profile 3D Contrib" >
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile 3D Contrib" >
    </picture>
 </div>
